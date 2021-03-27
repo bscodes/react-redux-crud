@@ -1,0 +1,28 @@
+.controllers {
+  background-color: #f0f0f0;
+
+  .filter-box {
+    .icon-wrapper {
+      margin-left: 5px;
+      margin-right: 5px;
+
+      .svg-icon {
+        height: 15px;
+        cursor: pointer;
+      }
+
+      .filter-box-checkbox-wrapper {
+        background-color: #fff;
+        position: absolute;
+        width: 150px;
+        padding: 8px;
+        border: 2px solid #000;
+        right: 30px;
+      }
+    }
+  }
+}
+
+.table-thead-tr {
+  background-color: #e7e7e7;
+}
